@@ -3,4 +3,3 @@
 /// <reference path="../.astro/icon.d.ts" />
 /// <reference types="@sanity/astro/module" />
 /// <reference types="astro/client" />
-
